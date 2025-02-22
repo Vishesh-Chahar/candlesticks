@@ -1,6 +1,5 @@
-Here's a `README.md` file for your project:
 
-```md
+
 # 📈 Stock Price Predictor
 
 A deep learning-powered web application that predicts stock prices using LSTM models. Built with **Streamlit**, **PyTorch**, and **Plotly**, this project allows users to train models with historical stock data and make future price predictions.
@@ -125,6 +124,6 @@ MIT License © 2025 Stock Price Predictor
 ---
 
 🚀 Happy Trading! 📈
-```
+
 
 This `README.md` covers everything from setup to model details. Let me know if you'd like any tweaks! 🚀
